@@ -1,0 +1,20 @@
+.container {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.direction-column {
+  flex-direction: column;
+}
+
+.content-center {
+  justify-content: center;
+}
+
+.items-center {
+  align-items: center;
+}
